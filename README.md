@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dee-kshaa/leetcodes/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dee-kshaa/leetcodes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dee-kshaa/leetcodes/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dee-kshaa/leetcodes/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/dee-kshaa/leetcodes/tree/master/0031-next-permutation) |

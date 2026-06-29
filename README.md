@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dee-kshaa/leetcodes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dee-kshaa/leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/dee-kshaa/leetcodes/tree/master/0032-longest-valid-parentheses) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dee-kshaa/leetcodes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dee-kshaa/leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/dee-kshaa/leetcodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/dee-kshaa/leetcodes/tree/master/0041-first-missing-positive) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/dee-kshaa/leetcodes/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

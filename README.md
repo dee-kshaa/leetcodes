@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dee-kshaa/leetcodes/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/dee-kshaa/leetcodes/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/dee-kshaa/leetcodes/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0010-regular-expression-matching) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dee-kshaa/leetcodes/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/dee-kshaa/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dee-kshaa/leetcodes/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
 ## Stack

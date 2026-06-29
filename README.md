@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/dee-kshaa/leetcodes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
 | [0622-design-circular-queue](https://github.com/dee-kshaa/leetcodes/tree/master/0622-design-circular-queue) |
+| [0739-daily-temperatures](https://github.com/dee-kshaa/leetcodes/tree/master/0739-daily-temperatures) |
 | [1470-shuffle-the-array](https://github.com/dee-kshaa/leetcodes/tree/master/1470-shuffle-the-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dee-kshaa/leetcodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -114,12 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/dee-kshaa/leetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/dee-kshaa/leetcodes/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/dee-kshaa/leetcodes/tree/master/0739-daily-temperatures) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dee-kshaa/leetcodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/dee-kshaa/leetcodes/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |

@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/dee-kshaa/leetcodes/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/dee-kshaa/leetcodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dee-kshaa/leetcodes/tree/master/0013-roman-to-integer) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dee-kshaa/leetcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/dee-kshaa/leetcodes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
 ## Two Pointers
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/dee-kshaa/leetcodes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dee-kshaa/leetcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/dee-kshaa/leetcodes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Trie
 |  |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/dee-kshaa/leetcodes/tree/master/1929-concatenation-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/dee-kshaa/leetcodes/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->

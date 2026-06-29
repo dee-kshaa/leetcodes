@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
 | [0622-design-circular-queue](https://github.com/dee-kshaa/leetcodes/tree/master/0622-design-circular-queue) |
 | [1470-shuffle-the-array](https://github.com/dee-kshaa/leetcodes/tree/master/1470-shuffle-the-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dee-kshaa/leetcodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/dee-kshaa/leetcodes/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dee-kshaa/leetcodes/tree/master/2073-time-needed-to-buy-tickets) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/dee-kshaa/leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/dee-kshaa/leetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dee-kshaa/leetcodes/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dee-kshaa/leetcodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dee-kshaa/leetcodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/dee-kshaa/leetcodes/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dee-kshaa/leetcodes/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sliding Window
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/dee-kshaa/leetcodes/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/dee-kshaa/leetcodes/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/dee-kshaa/leetcodes/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/dee-kshaa/leetcodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dee-kshaa/leetcodes/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |

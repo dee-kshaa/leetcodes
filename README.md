@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/dee-kshaa/leetcodes/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dee-kshaa/leetcodes/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/dee-kshaa/leetcodes/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dee-kshaa/leetcodes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -188,12 +189,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/dee-kshaa/leetcodes/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dee-kshaa/leetcodes/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/dee-kshaa/leetcodes/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dee-kshaa/leetcodes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/dee-kshaa/leetcodes/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/dee-kshaa/leetcodes/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/dee-kshaa/leetcodes/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dee-kshaa/leetcodes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |

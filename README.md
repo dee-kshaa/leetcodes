@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dee-kshaa/leetcodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dee-kshaa/leetcodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dee-kshaa/leetcodes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dee-kshaa/leetcodes/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/dee-kshaa/leetcodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dee-kshaa/leetcodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dee-kshaa/leetcodes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dee-kshaa/leetcodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dee-kshaa/leetcodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dee-kshaa/leetcodes/tree/master/0018-4sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/dee-kshaa/leetcodes/tree/master/0191-number-of-1-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/dee-kshaa/leetcodes/tree/master/0868-binary-gap) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/dee-kshaa/leetcodes/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dee-kshaa/leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/dee-kshaa/leetcodes/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/dee-kshaa/leetcodes/tree/master/0761-special-binary-string) |
 ## Depth-First Search
 |  |

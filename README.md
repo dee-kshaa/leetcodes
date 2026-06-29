@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dee-kshaa/leetcodes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2236-root-equals-sum-of-children](https://github.com/dee-kshaa/leetcodes/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dee-kshaa/leetcodes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2236-root-equals-sum-of-children](https://github.com/dee-kshaa/leetcodes/tree/master/2236-root-equals-sum-of-children) |
 ## Simulation
 |  |
 | ------- |

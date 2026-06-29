@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/dee-kshaa/leetcodes/tree/master/0118-pascals-triangle) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dee-kshaa/leetcodes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dee-kshaa/leetcodes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/dee-kshaa/leetcodes/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/dee-kshaa/leetcodes/tree/master/0739-daily-temperatures) |
 | [1470-shuffle-the-array](https://github.com/dee-kshaa/leetcodes/tree/master/1470-shuffle-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dee-kshaa/leetcodes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dee-kshaa/leetcodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/dee-kshaa/leetcodes/tree/master/1929-concatenation-of-array) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dee-kshaa/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dee-kshaa/leetcodes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dee-kshaa/leetcodes/tree/master/3634-minimum-removals-to-balance-array) |
 ## Design
 |  |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dee-kshaa/leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/dee-kshaa/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0044-wildcard-matching) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dee-kshaa/leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/dee-kshaa/leetcodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/dee-kshaa/leetcodes/tree/master/0041-first-missing-positive) |
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dee-kshaa/leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/dee-kshaa/leetcodes/tree/master/0037-sudoku-solver) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/dee-kshaa/leetcodes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Matrix

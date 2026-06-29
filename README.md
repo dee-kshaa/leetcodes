@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/dee-kshaa/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/dee-kshaa/leetcodes/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
 | [0761-special-binary-string](https://github.com/dee-kshaa/leetcodes/tree/master/0761-special-binary-string) |

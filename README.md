@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/dee-kshaa/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dee-kshaa/leetcodes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dee-kshaa/leetcodes/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/dee-kshaa/leetcodes/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee-kshaa/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/dee-kshaa/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dee-kshaa/leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dee-kshaa/leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dee-kshaa/leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/dee-kshaa/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/dee-kshaa/leetcodes/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/dee-kshaa/leetcodes/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/dee-kshaa/leetcodes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
 ## Linked List

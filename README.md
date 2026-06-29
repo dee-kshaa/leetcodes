@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
 | [3931-check-adjacent-digit-differences](https://github.com/dee-kshaa/leetcodes/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/dee-kshaa/leetcodes/tree/master/3941-password-strength) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/dee-kshaa/leetcodes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/dee-kshaa/leetcodes/tree/master/0037-sudoku-solver) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/dee-kshaa/leetcodes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Matrix
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/dee-kshaa/leetcodes/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Enumeration
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/dee-kshaa/leetcodes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->

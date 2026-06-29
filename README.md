@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/dee-kshaa/leetcodes/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dee-kshaa/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/dee-kshaa/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/dee-kshaa/leetcodes/tree/master/0622-design-circular-queue) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dee-kshaa/leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dee-kshaa/leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dee-kshaa/leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dee-kshaa/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/dee-kshaa/leetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/dee-kshaa/leetcodes/tree/master/0232-implement-queue-using-stacks) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dee-kshaa/leetcodes/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/dee-kshaa/leetcodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dee-kshaa/leetcodes/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dee-kshaa/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dee-kshaa/leetcodes/tree/master/3751-total-waviness-of-numbers-in-range-i) |

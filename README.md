@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dee-kshaa/leetcodes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/dee-kshaa/leetcodes/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/dee-kshaa/leetcodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/dee-kshaa/leetcodes/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dee-kshaa/leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/dee-kshaa/leetcodes/tree/master/0035-search-insert-position) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dee-kshaa/leetcodes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |

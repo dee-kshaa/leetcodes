@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dee-kshaa/leetcodes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dee-kshaa/leetcodes/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dee-kshaa/leetcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/dee-kshaa/leetcodes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dee-kshaa/leetcodes/tree/master/0035-search-insert-position) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dee-kshaa/leetcodes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dee-kshaa/leetcodes/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/dee-kshaa/leetcodes/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dee-kshaa/leetcodes/tree/master/1971-find-if-path-exists-in-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dee-kshaa/leetcodes/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dee-kshaa/leetcodes/tree/master/1971-find-if-path-exists-in-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -373,5 +378,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 <!---LeetCode Topics End-->

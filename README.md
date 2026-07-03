@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/dee-kshaa/leetcodes/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/dee-kshaa/leetcodes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dee-kshaa/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dee-kshaa/leetcodes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dee-kshaa/leetcodes/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/dee-kshaa/leetcodes/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee-kshaa/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/dee-kshaa/leetcodes/tree/master/0146-lru-cache) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dee-kshaa/leetcodes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

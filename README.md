@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/dee-kshaa/leetcodes/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/dee-kshaa/leetcodes/tree/master/0118-pascals-triangle) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dee-kshaa/leetcodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dee-kshaa/leetcodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dee-kshaa/leetcodes/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/0056-merge-intervals) |
 | [0761-special-binary-string](https://github.com/dee-kshaa/leetcodes/tree/master/0761-special-binary-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

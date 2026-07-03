@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/dee-kshaa/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/dee-kshaa/leetcodes/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
 | [0761-special-binary-string](https://github.com/dee-kshaa/leetcodes/tree/master/0761-special-binary-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dee-kshaa/leetcodes/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/dee-kshaa/leetcodes/tree/master/0191-number-of-1-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/dee-kshaa/leetcodes/tree/master/0868-binary-gap) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dee-kshaa/leetcodes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/dee-kshaa/leetcodes/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/dee-kshaa/leetcodes/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee-kshaa/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
 | [1518-water-bottles](https://github.com/dee-kshaa/leetcodes/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dee-kshaa/leetcodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/dee-kshaa/leetcodes/tree/master/1929-concatenation-of-array) |

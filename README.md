@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/dee-kshaa/leetcodes/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/dee-kshaa/leetcodes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/dee-kshaa/leetcodes/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee-kshaa/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dee-kshaa/leetcodes/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/dee-kshaa/leetcodes/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/dee-kshaa/leetcodes/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

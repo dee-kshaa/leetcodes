@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dee-kshaa/leetcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dee-kshaa/leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/dee-kshaa/leetcodes/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dee-kshaa/leetcodes/tree/master/3634-minimum-removals-to-balance-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dee-kshaa/leetcodes/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dee-kshaa/leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dee-kshaa/leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
 | [3941-password-strength](https://github.com/dee-kshaa/leetcodes/tree/master/3941-password-strength) |
 ## Backtracking
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dee-kshaa/leetcodes/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dee-kshaa/leetcodes/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dee-kshaa/leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/dee-kshaa/leetcodes/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dee-kshaa/leetcodes/tree/master/3634-minimum-removals-to-balance-array) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/dee-kshaa/leetcodes/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dee-kshaa/leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dee-kshaa/leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/dee-kshaa/leetcodes/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/dee-kshaa/leetcodes/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dee-kshaa/leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dee-kshaa/leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
 | ------- |

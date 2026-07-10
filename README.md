@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/dee-kshaa/leetcodes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/dee-kshaa/leetcodes/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/dee-kshaa/leetcodes/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |

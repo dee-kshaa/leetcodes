@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/dee-kshaa/leetcodes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/dee-kshaa/leetcodes/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/dee-kshaa/leetcodes/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/dee-kshaa/leetcodes/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/dee-kshaa/leetcodes/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/dee-kshaa/leetcodes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dee-kshaa/leetcodes/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/dee-kshaa/leetcodes/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/dee-kshaa/leetcodes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dee-kshaa/leetcodes/tree/master/0069-sqrtx) |

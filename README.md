@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dee-kshaa/leetcodes/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dee-kshaa/leetcodes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/dee-kshaa/leetcodes/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/dee-kshaa/leetcodes/tree/master/0118-pascals-triangle) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dee-kshaa/leetcodes/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/dee-kshaa/leetcodes/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/dee-kshaa/leetcodes/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/dee-kshaa/leetcodes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dee-kshaa/leetcodes/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/dee-kshaa/leetcodes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dee-kshaa/leetcodes/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |

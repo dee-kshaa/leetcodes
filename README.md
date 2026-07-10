@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/dee-kshaa/leetcodes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dee-kshaa/leetcodes/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/dee-kshaa/leetcodes/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dee-kshaa/leetcodes/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dee-kshaa/leetcodes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/dee-kshaa/leetcodes/tree/master/0051-n-queens) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/dee-kshaa/leetcodes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Matrix
 |  |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/dee-kshaa/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/dee-kshaa/leetcodes/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/dee-kshaa/leetcodes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/dee-kshaa/leetcodes/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0151-reverse-words-in-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/dee-kshaa/leetcodes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/dee-kshaa/leetcodes/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/dee-kshaa/leetcodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dee-kshaa/leetcodes/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dee-kshaa/leetcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/dee-kshaa/leetcodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/dee-kshaa/leetcodes/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/dee-kshaa/leetcodes/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/dee-kshaa/leetcodes/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/dee-kshaa/leetcodes/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/dee-kshaa/leetcodes/tree/master/0496-next-greater-element-i) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dee-kshaa/leetcodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dee-kshaa/leetcodes/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/dee-kshaa/leetcodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0761-special-binary-string](https://github.com/dee-kshaa/leetcodes/tree/master/0761-special-binary-string) |

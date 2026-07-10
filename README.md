@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/dee-kshaa/leetcodes/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/dee-kshaa/leetcodes/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/dee-kshaa/leetcodes/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
 | [0761-special-binary-string](https://github.com/dee-kshaa/leetcodes/tree/master/0761-special-binary-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dee-kshaa/leetcodes/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dee-kshaa/leetcodes/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/dee-kshaa/leetcodes/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0088-merge-sorted-array) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dee-kshaa/leetcodes/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/dee-kshaa/leetcodes/tree/master/0068-text-justification) |
 | [1518-water-bottles](https://github.com/dee-kshaa/leetcodes/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dee-kshaa/leetcodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/dee-kshaa/leetcodes/tree/master/1929-concatenation-of-array) |

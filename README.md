@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dee-kshaa/leetcodes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dee-kshaa/leetcodes/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/dee-kshaa/leetcodes/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/dee-kshaa/leetcodes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/dee-kshaa/leetcodes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dee-kshaa/leetcodes/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/dee-kshaa/leetcodes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dee-kshaa/leetcodes/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
 | [1518-water-bottles](https://github.com/dee-kshaa/leetcodes/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dee-kshaa/leetcodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |

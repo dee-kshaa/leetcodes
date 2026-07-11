@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee-kshaa/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/dee-kshaa/leetcodes/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/dee-kshaa/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/dee-kshaa/leetcodes/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/dee-kshaa/leetcodes/tree/master/0643-maximum-average-subarray-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dee-kshaa/leetcodes/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/dee-kshaa/leetcodes/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/dee-kshaa/leetcodes/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/dee-kshaa/leetcodes/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dee-kshaa/leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
 ## Bit Manipulation
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dee-kshaa/leetcodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/dee-kshaa/leetcodes/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dee-kshaa/leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/dee-kshaa/leetcodes/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/dee-kshaa/leetcodes/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/dee-kshaa/leetcodes/tree/master/0761-special-binary-string) |
 ## Depth-First Search
 |  |
@@ -512,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -542,4 +548,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dee-kshaa/leetcodes/tree/master/0062-unique-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

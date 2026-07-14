@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/dee-kshaa/leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dee-kshaa/leetcodes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/dee-kshaa/leetcodes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee-kshaa/leetcodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/dee-kshaa/leetcodes/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dee-kshaa/leetcodes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dee-kshaa/leetcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee-kshaa/leetcodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dee-kshaa/leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/dee-kshaa/leetcodes/tree/master/3620-network-recovery-pathways) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1518-water-bottles](https://github.com/dee-kshaa/leetcodes/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3100-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee-kshaa/leetcodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dee-kshaa/leetcodes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dee-kshaa/leetcodes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -572,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dee-kshaa/leetcodes/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee-kshaa/leetcodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->

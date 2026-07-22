@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/3110-score-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dee-kshaa/leetcodes/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/dee-kshaa/leetcodes/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dee-kshaa/leetcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee-kshaa/leetcodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dee-kshaa/leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/dee-kshaa/leetcodes/tree/master/3620-network-recovery-pathways) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dee-kshaa/leetcodes/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dee-kshaa/leetcodes/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dee-kshaa/leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/dee-kshaa/leetcodes/tree/master/3620-network-recovery-pathways) |
@@ -594,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dee-kshaa/leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->

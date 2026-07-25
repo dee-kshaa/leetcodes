@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/dee-kshaa/leetcodes/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/dee-kshaa/leetcodes/tree/master/0089-gray-code) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/dee-kshaa/leetcodes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Matrix
 |  |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/dee-kshaa/leetcodes/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/dee-kshaa/leetcodes/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/dee-kshaa/leetcodes/tree/master/0191-number-of-1-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/dee-kshaa/leetcodes/tree/master/0868-binary-gap) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dee-kshaa/leetcodes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dee-kshaa/leetcodes/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/dee-kshaa/leetcodes/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee-kshaa/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

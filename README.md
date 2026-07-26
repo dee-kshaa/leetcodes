@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/dee-kshaa/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/dee-kshaa/leetcodes/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dee-kshaa/leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/dee-kshaa/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/dee-kshaa/leetcodes/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/dee-kshaa/leetcodes/tree/master/0994-rotting-oranges) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/dee-kshaa/leetcodes/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee-kshaa/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dee-kshaa/leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1518-water-bottles](https://github.com/dee-kshaa/leetcodes/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3100-water-bottles-ii) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dee-kshaa/leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/dee-kshaa/leetcodes/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/dee-kshaa/leetcodes/tree/master/1331-rank-transform-of-an-array) |

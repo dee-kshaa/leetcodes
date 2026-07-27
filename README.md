@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dee-kshaa/leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/dee-kshaa/leetcodes/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dee-kshaa/leetcodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/dee-kshaa/leetcodes/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dee-kshaa/leetcodes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dee-kshaa/leetcodes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/dee-kshaa/leetcodes/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/dee-kshaa/leetcodes/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dee-kshaa/leetcodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dee-kshaa/leetcodes/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dee-kshaa/leetcodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/3110-score-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dee-kshaa/leetcodes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dee-kshaa/leetcodes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/dee-kshaa/leetcodes/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dee-kshaa/leetcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dee-kshaa/leetcodes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/dee-kshaa/leetcodes/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -627,4 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dee-kshaa/leetcodes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

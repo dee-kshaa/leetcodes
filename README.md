@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dee-kshaa/leetcodes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/dee-kshaa/leetcodes/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/dee-kshaa/leetcodes/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/dee-kshaa/leetcodes/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/dee-kshaa/leetcodes/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/dee-kshaa/leetcodes/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0151-reverse-words-in-a-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dee-kshaa/leetcodes/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dee-kshaa/leetcodes/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/dee-kshaa/leetcodes/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/dee-kshaa/leetcodes/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/dee-kshaa/leetcodes/tree/master/0118-pascals-triangle) |

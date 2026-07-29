@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/dee-kshaa/leetcodes/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/dee-kshaa/leetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dee-kshaa/leetcodes/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/dee-kshaa/leetcodes/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0088-merge-sorted-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dee-kshaa/leetcodes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dee-kshaa/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/dee-kshaa/leetcodes/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/dee-kshaa/leetcodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/dee-kshaa/leetcodes/tree/master/0876-middle-of-the-linked-list) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dee-kshaa/leetcodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/dee-kshaa/leetcodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dee-kshaa/leetcodes/tree/master/0628-maximum-product-of-three-numbers) |

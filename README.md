@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dee-kshaa/leetcodes/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dee-kshaa/leetcodes/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/dee-kshaa/leetcodes/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/dee-kshaa/leetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dee-kshaa/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/dee-kshaa/leetcodes/tree/master/0088-merge-sorted-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/dee-kshaa/leetcodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/dee-kshaa/leetcodes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/dee-kshaa/leetcodes/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dee-kshaa/leetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/dee-kshaa/leetcodes/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/dee-kshaa/leetcodes/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dee-kshaa/leetcodes/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/dee-kshaa/leetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/dee-kshaa/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/dee-kshaa/leetcodes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |

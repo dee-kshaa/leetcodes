@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dee-kshaa/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/dee-kshaa/leetcodes/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/dee-kshaa/leetcodes/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/dee-kshaa/leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dee-kshaa/leetcodes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/dee-kshaa/leetcodes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/dee-kshaa/leetcodes/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/dee-kshaa/leetcodes/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/dee-kshaa/leetcodes/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/dee-kshaa/leetcodes/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dee-kshaa/leetcodes/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/dee-kshaa/leetcodes/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/dee-kshaa/leetcodes/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/dee-kshaa/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/dee-kshaa/leetcodes/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dee-kshaa/leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/dee-kshaa/leetcodes/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dee-kshaa/leetcodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0227-basic-calculator-ii) |
+| [0486-predict-the-winner](https://github.com/dee-kshaa/leetcodes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dee-kshaa/leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1518-water-bottles](https://github.com/dee-kshaa/leetcodes/tree/master/1518-water-bottles) |
@@ -659,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dee-kshaa/leetcodes/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/dee-kshaa/leetcodes/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

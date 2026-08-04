@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dee-kshaa/leetcodes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/dee-kshaa/leetcodes/tree/master/3731-find-missing-elements) |
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
 ## Two Pointers
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dee-kshaa/leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/dee-kshaa/leetcodes/tree/master/3731-find-missing-elements) |
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
 | [3941-password-strength](https://github.com/dee-kshaa/leetcodes/tree/master/3941-password-strength) |
 ## Backtracking
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dee-kshaa/leetcodes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/dee-kshaa/leetcodes/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |

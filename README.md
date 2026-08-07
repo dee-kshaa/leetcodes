@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dee-kshaa/leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/3110-score-of-a-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dee-kshaa/leetcodes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dee-kshaa/leetcodes/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dee-kshaa/leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dee-kshaa/leetcodes/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/dee-kshaa/leetcodes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/dee-kshaa/leetcodes/tree/master/0093-restore-ip-addresses) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/dee-kshaa/leetcodes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Matrix
 |  |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3100-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee-kshaa/leetcodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dee-kshaa/leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dee-kshaa/leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee-kshaa/leetcodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dee-kshaa/leetcodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search Tree
 |  |

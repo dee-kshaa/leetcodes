@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dee-kshaa/leetcodes/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/dee-kshaa/leetcodes/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dee-kshaa/leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dee-kshaa/leetcodes/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/dee-kshaa/leetcodes/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dee-kshaa/leetcodes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/dee-kshaa/leetcodes/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dee-kshaa/leetcodes/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dee-kshaa/leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dee-kshaa/leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [2029-stone-game-ix](https://github.com/dee-kshaa/leetcodes/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/dee-kshaa/leetcodes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dee-kshaa/leetcodes/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/dee-kshaa/leetcodes/tree/master/1518-water-bottles) |
+| [2029-stone-game-ix](https://github.com/dee-kshaa/leetcodes/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dee-kshaa/leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3100-water-bottles-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3100-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee-kshaa/leetcodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -714,22 +718,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dee-kshaa/leetcodes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dee-kshaa/leetcodes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dee-kshaa/leetcodes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dee-kshaa/leetcodes/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dee-kshaa/leetcodes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dee-kshaa/leetcodes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dee-kshaa/leetcodes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dee-kshaa/leetcodes/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dee-kshaa/leetcodes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dee-kshaa/leetcodes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dee-kshaa/leetcodes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dee-kshaa/leetcodes/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/dee-kshaa/leetcodes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dee-kshaa/leetcodes/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |

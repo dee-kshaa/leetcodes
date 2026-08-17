@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dee-kshaa/leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/dee-kshaa/leetcodes/tree/master/1331-rank-transform-of-an-array) |
+| [1390-four-divisors](https://github.com/dee-kshaa/leetcodes/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/dee-kshaa/leetcodes/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dee-kshaa/leetcodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/dee-kshaa/leetcodes/tree/master/1470-shuffle-the-array) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dee-kshaa/leetcodes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/dee-kshaa/leetcodes/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dee-kshaa/leetcodes/tree/master/1140-stone-game-ii) |
+| [1390-four-divisors](https://github.com/dee-kshaa/leetcodes/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/dee-kshaa/leetcodes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dee-kshaa/leetcodes/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/dee-kshaa/leetcodes/tree/master/1518-water-bottles) |
@@ -755,4 +757,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/dee-kshaa/leetcodes/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/dee-kshaa/leetcodes/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/dee-kshaa/leetcodes/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->

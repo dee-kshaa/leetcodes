@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dee-kshaa/leetcodes/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/dee-kshaa/leetcodes/tree/master/0841-keys-and-rooms) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dee-kshaa/leetcodes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dee-kshaa/leetcodes/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dee-kshaa/leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dee-kshaa/leetcodes/tree/master/2685-count-the-number-of-complete-components) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dee-kshaa/leetcodes/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/dee-kshaa/leetcodes/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/dee-kshaa/leetcodes/tree/master/0994-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dee-kshaa/leetcodes/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dee-kshaa/leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dee-kshaa/leetcodes/tree/master/2685-count-the-number-of-complete-components) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dee-kshaa/leetcodes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dee-kshaa/leetcodes/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dee-kshaa/leetcodes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dee-kshaa/leetcodes/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/dee-kshaa/leetcodes/tree/master/2236-root-equals-sum-of-children) |
 ## Simulation
 |  |

@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/dee-kshaa/leetcodes/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/dee-kshaa/leetcodes/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/dee-kshaa/leetcodes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/dee-kshaa/leetcodes/tree/master/0093-restore-ip-addresses) |

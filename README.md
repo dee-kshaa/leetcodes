@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dee-kshaa/leetcodes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dee-kshaa/leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/2390-removing-stars-from-a-string) |
+| [2573-find-the-string-with-lcp](https://github.com/dee-kshaa/leetcodes/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dee-kshaa/leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/dee-kshaa/leetcodes/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/dee-kshaa/leetcodes/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/dee-kshaa/leetcodes/tree/master/1872-stone-game-viii) |
+| [2573-find-the-string-with-lcp](https://github.com/dee-kshaa/leetcodes/tree/master/2573-find-the-string-with-lcp) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/dee-kshaa/leetcodes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dee-kshaa/leetcodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee-kshaa/leetcodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/dee-kshaa/leetcodes/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/dee-kshaa/leetcodes/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2573-find-the-string-with-lcp](https://github.com/dee-kshaa/leetcodes/tree/master/2573-find-the-string-with-lcp) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dee-kshaa/leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/dee-kshaa/leetcodes/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dee-kshaa/leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2573-find-the-string-with-lcp](https://github.com/dee-kshaa/leetcodes/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dee-kshaa/leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/dee-kshaa/leetcodes/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/dee-kshaa/leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1975-maximum-matrix-sum](https://github.com/dee-kshaa/leetcodes/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/dee-kshaa/leetcodes/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
@@ -613,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dee-kshaa/leetcodes/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dee-kshaa/leetcodes/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dee-kshaa/leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2573-find-the-string-with-lcp](https://github.com/dee-kshaa/leetcodes/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/dee-kshaa/leetcodes/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dee-kshaa/leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dee-kshaa/leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/2390-removing-stars-from-a-string) |
 | [2573-find-the-string-with-lcp](https://github.com/dee-kshaa/leetcodes/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dee-kshaa/leetcodes/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dee-kshaa/leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |

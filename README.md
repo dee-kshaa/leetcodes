@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/dee-kshaa/leetcodes/tree/master/2390-removing-stars-from-a-string) |
 | [2573-find-the-string-with-lcp](https://github.com/dee-kshaa/leetcodes/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dee-kshaa/leetcodes/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dee-kshaa/leetcodes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dee-kshaa/leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dee-kshaa/leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/dee-kshaa/leetcodes/tree/master/1386-cinema-seat-allocation) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dee-kshaa/leetcodes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dee-kshaa/leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dee-kshaa/leetcodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dee-kshaa/leetcodes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dee-kshaa/leetcodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dee-kshaa/leetcodes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

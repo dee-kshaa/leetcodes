@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/dee-kshaa/leetcodes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dee-kshaa/leetcodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee-kshaa/leetcodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/dee-kshaa/leetcodes/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/dee-kshaa/leetcodes/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dee-kshaa/leetcodes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dee-kshaa/leetcodes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dee-kshaa/leetcodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/dee-kshaa/leetcodes/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dee-kshaa/leetcodes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dee-kshaa/leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/dee-kshaa/leetcodes/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dee-kshaa/leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/dee-kshaa/leetcodes/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Linked List
 |  |
 | ------- |

@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/dee-kshaa/leetcodes/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dee-kshaa/leetcodes/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/dee-kshaa/leetcodes/tree/master/3903-smallest-stable-index-i) |
 | [3926-count-valid-word-occurrences](https://github.com/dee-kshaa/leetcodes/tree/master/3926-count-valid-word-occurrences) |
 ## Two Pointers
 |  |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dee-kshaa/leetcodes/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/dee-kshaa/leetcodes/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dee-kshaa/leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/dee-kshaa/leetcodes/tree/master/3903-smallest-stable-index-i) |
 ## Combinatorics
 |  |
 | ------- |

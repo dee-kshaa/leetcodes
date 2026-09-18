@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/dee-kshaa/leetcodes/tree/master/0761-special-binary-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dee-kshaa/leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dee-kshaa/leetcodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dee-kshaa/leetcodes/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1927-sum-game](https://github.com/dee-kshaa/leetcodes/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dee-kshaa/leetcodes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dee-kshaa/leetcodes/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dee-kshaa/leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1386-cinema-seat-allocation](https://github.com/dee-kshaa/leetcodes/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dee-kshaa/leetcodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/dee-kshaa/leetcodes/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/dee-kshaa/leetcodes/tree/master/1975-maximum-matrix-sum) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/dee-kshaa/leetcodes/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dee-kshaa/leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/dee-kshaa/leetcodes/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dee-kshaa/leetcodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/dee-kshaa/leetcodes/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dee-kshaa/leetcodes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dee-kshaa/leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/dee-kshaa/leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/dee-kshaa/leetcodes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dee-kshaa/leetcodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dee-kshaa/leetcodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dee-kshaa/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dee-kshaa/leetcodes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2751-robot-collisions](https://github.com/dee-kshaa/leetcodes/tree/master/2751-robot-collisions) |
